@@ -1,0 +1,90 @@
+.icon-area ul{
+        list-style: none;
+}
+.icon-area ul li{
+    display: inline-block;
+}
+.icon-area ul li a{
+    background:#64dd17 ;
+    color: black;
+    text-decoration: none;
+    font-size: 40px;
+    padding: 30px 40px;
+    margin-top: 30px;
+    margin-left: 70px;
+    display: block;
+    border-radius: 6px;
+}
+.icon-area ul li a:hover{
+    background-color: blue;
+}
+.icon-area-1 ul{
+    list-style: none;
+}
+.icon-area-1 ul li{
+display: inline-block;
+}
+.icon-area-1 ul li a{
+background:#d84315  ;
+color: white;
+text-decoration: none;
+font-size: 40px;
+padding: 30px 40px;
+margin-left: 70px;
+display: block;
+border-radius: 6px;
+text-align: center;
+}
+.icon-area-1 ul li a:hover{
+background-color: #e57373;
+}
+
+.icon-area-2 ul{
+    list-style: none;
+}
+.icon-area-2 ul li{
+    display: inline-block;
+}
+.icon-area-2 ul li a{
+    background: #616161 ;
+    color: #00c853  ;
+    text-decoration: none;
+    font-size: 40px;
+    padding: 30px 40px;
+    border-style: ridge;
+    margin-left: 70px;
+    display: block;
+}
+.icon-area-3 ul {
+    list-style: none;
+}
+
+.icon-area-3 ul li{
+    display: inline-block;
+}
+.icon-area-3 ul li a{
+    background: #ffab40 ;
+    color: cornflowerblue;
+    text-decoration: none;
+    font-size: 40px;
+    padding: 30px 40px;
+    display: block;
+    margin-left: 70px;
+}
+.icon-area-4 ul {
+    list-style: none;
+}
+
+.icon-area-4 ul li{
+    display: inline-block;
+}
+.icon-area-4 ul li a{
+    background: #f57f17 ;
+    color: whitesmoke;
+    text-decoration: none;
+    font-size: 40px;
+    padding: 30px 40px;
+    display: block;
+    margin-left: 70px;
+}
+
